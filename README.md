@@ -25,7 +25,7 @@ This repository contains my submission for **Lesson 3** of the Project GPT Desig
 ## Loom Video Walkthrough
 
 A detailed walkthrough is available here:  
-**[INSERT LOOM LINK HERE]**
+**[[LOOM LINK HERE](https://www.loom.com/share/556f9d358d2f4096ae2574fad150feb9)]**
 
 ---
 
